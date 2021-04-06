@@ -75,13 +75,3 @@ The beam balance is done by putting two equal masses on a balance and then a fie
 Simple pendula can be used in two ways. One is by measuring little g from the period and backing out G. The other is to bring a field mass close to the bob and look at the deflection.
 
 This paper is excellent for going into great detail about the different way apparatus are used to measure  G. It does not talk much about controversy however. Maybe this is a good way to talk about a few of the ways G is measured.
-
-
-## Articles and Such
-
-- [The value or Newton's constant](https://www.bipm.org/cc/CODATA-TGFC/Allowed/2015-02/Speake.pdf)
-  - This a powerrpoint by Clive Speake from 2015. It covers the status of the values of G at the time and quite  afew of the measurement techniques.
-  
-- [Simple Pendulum Determination of the Gravitational Constant 2010 Parks & Faller](https://www.semanticscholar.org/paper/Simple-pendulum-determination-of-the-gravitational-Parks-Faller/0792d166f37792d3d724dc6323b40e6aee134930)
-  - This paper usings an optical Fabry-Perot cavity and a simple pendulum. I haven't read too much more than that. It is also sited by a lot of papers that could be other sources of G values.
-
