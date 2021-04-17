@@ -85,3 +85,24 @@ This paper is excellent for going into great detail about the different way appa
 - [Simple Pendulum Determination of the Gravitational Constant 2010 Parks & Faller](https://www.semanticscholar.org/paper/Simple-pendulum-determination-of-the-gravitational-Parks-Faller/0792d166f37792d3d724dc6323b40e6aee134930)
   - This paper usings an optical Fabry-Perot cavity and a simple pendulum. I haven't read too much more than that. It is also sited by a lot of papers that could be other sources of G values.
 
+- [Precision Measurement of the Newtonian Gravitational Constant](https://watermark.silverchair.com/nwaa165.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtIwggLOBgkqhkiG9w0BBwagggK_MIICuwIBADCCArQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMu12OCZR5Zbs_WRCBAgEQgIIChUO8Y_cmDfqEwClRBJ0RhHyY2aA3cqSwqsJiYK3no8-yhr8JfBt1Xwj1vbbECkKzG3osT-uoEfKU-jbnTPIXraz-tvjVjm9HDFc6x6-kknzS-_B3FnZFPOX8IJfKs0CBogLRkF9SEmGCrEqPXdEdAPTLF2P9EyVSml2i8DdG_PpB-EuUVC-cJqfKYIzTQa8emjfSnXG0mJqRJuZWuxdDEUUuBkIpTEvf4VsXRAsSjOIh6dUvkddZGeHJkTUC4UvsqrEioOvaWeVies08cmZAKQXuP3L38y7kYGjS_8Wn4XvfJIwxiZ9jSr_4vSR0CtB5lrEenfkcUBKwnE7oXIepsJjO4LyQrYxJu4_3thk3NKw3L27Ou6Hb22l9gITQXmk6-HPdM_PUE3FXoFNW4M9-SMEP8yUdn9XrE3X5txeV2h0d5MLK0CgEinP_tZ7cVnmYAYZYSsAlmev2yB-7r-IgdWCZ_daJySUgB8bEjcsxAInYbZv3CFulGqZnmttd6elGu1bNnYV9T9aq-KISc4h7RKgEOWQMyvC1jj4MtPDtvvFSWK07mlMcggGdeSiB8ugMOACbmz8CoCbQu8d8JjoobnNeBUnu9CiFfnyW1A_8nFGhK4Rgp6cYEkKjAw_LJ0YmIDgF8jxnjNMRiGuTWqsZN8_DP5QJ2rLJnoqrofbSrLd-75soqdExwlpi_0IdW41i3__KixuSY9RsHHCldSfmHC60XgrPFZAj_Sag9zHrpncK7y1GFwM6g0Xc2bbtaq0VagsReYKujv4Fx1h9WutMt8qMoK6oa2DmRzIFtUOQHRRrsOnjtGX_RDR6vZjux44nAP6iztZqPIoIXVK3HX5nBecLkzpyQw)
+
+
+# More Notes on the nature papers
+
+- Two masses with ~2 mm diameter about 90 mg each.
+- In vacuum with special rubber feet and faraday sheet to separate the masses.
+- One mass was oscillated with a frequency of 12.7mHz
+- The period of that is 79 seconds
+- Resonance of the torsion pendulum was 3.59 mHz or period of 278 seconds, just under five minutes.
+- Had to measure at night between midnight and 5am to eliminate noisie from foot and vehicle traffic.
+- Smallest center to center distance 2.5mm largest was 5.8mm
+- Uses ionoized nitrogen to remove excess charge. A technique that was developped for gravitational detectors.
+- Found negligble magentic fields form the materials and from the the surroundings.
+- Casimir forces are much smaller than the gravitiatonal forces.
+- The gravitational force between the two masses 2.5mm is ~9e-14N which is about the same as a person 2.5m away or a tram 50m away.
+- These gravitational fields can't be measured.
+- Took the main run over winter break
+
+- Wieght of a bloodcell 27pg = 2.7e-13N
+- Force between 2 62kg average people 2m apart 6.4e-8
